@@ -1,0 +1,20 @@
+{
+    "keyWords": {
+        "客服链接,需要在浏览器中直接打开使用的链接": "",
+        "service": "https://www.baidu.com",
+        "网站标题": "",
+        "title": "Circle, template technology",
+        "网站简称,限非中文": "",
+        "titleShort": "Circle",
+        "网站底部介绍": "",
+        "footerIntroduce": {
+            "zh_CN": "Circle, Circle由Circle Oceans Group B.V.经Curaçao政府授权和监管（许可证号1668 / JAZ）运营。",
+            "en_US": "Circle, One Key Template Technology",
+            "id_ID": "Circle, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        "默认语言": "",
+        "defaultLang": "zh_CN",
+        "货币单位（字母）": "",
+        "currency": "RMB"
+    }
+}

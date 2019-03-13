@@ -1,0 +1,18 @@
+{
+    "keyWords": {
+        "网站地址,手机端有使用,pc端无用": "",
+        "website": "a1.circle2017.com",
+        "接口调用host,一般同域名一致,在打包app时使用": "",
+        "host": "a1.circle2017.com",
+        "客服链接,需要在浏览器中直接打开使用的链接": "",
+        "service": "https://www.baidu.com",
+        "网站标题": "",
+        "title": "Circle, template technology11",
+        "网站简称,限非中文": "",
+        "titleShort": "Circle",
+        "默认语言": "",
+        "defaultLang": "zh_CN",
+        "货币单位（字母）": "",
+        "currency": "RMB"
+    }
+}
